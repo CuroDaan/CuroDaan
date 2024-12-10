@@ -1,5 +1,10 @@
-## Hi there 👋
+## Kurze Vorstellung 👋
 
+Seit Januar 2024 mache ich eine Umschulung zum Fachinformatiker für Anwendungsentwicklung.
+
+Die aktuellen Themen der Umschulung:
+- Java-Programmierung
+- Software-Engineering
 <!--
 **CuroDaan/CuroDaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
